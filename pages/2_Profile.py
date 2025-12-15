@@ -183,27 +183,6 @@ with col2:
     """, unsafe_allow_html=True)
 
 # =========================
-# MEMBER 3 & 4 (TIDAK BEKERJA)
-# =========================
-st.markdown(f"""
-<div class="profile-card not-working-card">
-    <div class="profile-info">
-        <b>{TXT["name"]}:</b> Osvaldo Yehuda Panjaitan<br>
-        <b>{TXT["sid"]}:</b> 00420240031<br>
-        <span class="not-working">{TXT["status"]}: {TXT["not_working"]}</span>
-    </div>
-</div>
-
-<div class="profile-card not-working-card">
-    <div class="profile-info">
-        <b>{TXT["name"]}:</b> Zahira Putri Muqarrabin<br>
-        <b>{TXT["sid"]}:</b> 004202400127<br>
-        <span class="not-working">{TXT["status"]}: {TXT["not_working"]}</span>
-    </div>
-</div>
-""", unsafe_allow_html=True)
-
-# =========================
 # PENJELASAN CARA KERJA APLIKASI (PERBAIKAN FINAL & STABIL)
 # =========================
 st.subheader(TXT['how_app_works_title'])

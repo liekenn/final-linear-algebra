@@ -176,7 +176,7 @@ with col2:
     <div class="profile-card working-card">
         <div class="profile-info">
             <b>{TXT["name"]}:</b> Muhammad Dicky Ramadhan<br>
-            <b>{TXT["sid"]}:</b> 00420240011<br>
+            <b>{TXT["sid"]}:</b> 004202400011<br>
             <span class="role">{TXT["role"]}: {TXT["active_role_2"]}</span>
         </div>
     </div>
